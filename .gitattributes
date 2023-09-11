@@ -11,9 +11,6 @@
 *.exe binary
 *.dll binary
 
-##### Linux
-*.sh text eol=lf
-*.so binary
 
 ##### Global
 # Documents
