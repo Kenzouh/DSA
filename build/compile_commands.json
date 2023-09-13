@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/build",
+  "command": "C:/TDM-GCC-64/bin/gcc.exe   -g -o CMakeFiles/DSA.dir/Unit1/src/main.c.obj -c C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/Unit1/src/main.c",
+  "file": "C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/Unit1/src/main.c",
+  "output": "CMakeFiles/DSA.dir/Unit1/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/build",
+  "command": "C:/TDM-GCC-64/bin/gcc.exe   -g -o CMakeFiles/DSA.dir/Unit2/src/main.c.obj -c C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/Unit2/src/main.c",
+  "file": "C:/Users/USER/OneDrive/Desktop/Temp/OpenSource/DSA-ken/DSA/Unit2/src/main.c",
+  "output": "CMakeFiles/DSA.dir/Unit2/src/main.c.obj"
+}
+]
